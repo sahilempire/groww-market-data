@@ -112,3 +112,13 @@ cm_bhavcopy/BhavCopy_NSE_CM_20250314.csv.zip
 participant_oi/fao_participant_oi_20250314.csv
 participant_vol/fao_participant_vol_20250314.csv
 index_close/ind_close_all_20250314.csv
+fo_bhavcopy/BhavCopy_NSE_FO_20250226.csv.zip
+cm_bhavcopy/BhavCopy_NSE_CM_20250226.csv.zip
+participant_oi/fao_participant_oi_20250226.csv
+participant_vol/fao_participant_vol_20250226.csv
+index_close/ind_close_all_20250226.csv
+fo_bhavcopy/BhavCopy_NSE_FO_20241225.csv.zip
+cm_bhavcopy/BhavCopy_NSE_CM_20241225.csv.zip
+participant_oi/fao_participant_oi_20241225.csv
+participant_vol/fao_participant_vol_20241225.csv
+index_close/ind_close_all_20241225.csv
