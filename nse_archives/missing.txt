@@ -78,3 +78,7 @@ participant_oi/fao_participant_oi_20250827.csv
 participant_vol/fao_participant_vol_20250827.csv
 index_close/ind_close_all_20250827.csv
 fo_bhavcopy/BhavCopy_NSE_FO_20250815.csv.zip
+cm_bhavcopy/BhavCopy_NSE_CM_20250815.csv.zip
+participant_oi/fao_participant_oi_20250815.csv
+participant_vol/fao_participant_vol_20250815.csv
+index_close/ind_close_all_20250815.csv
