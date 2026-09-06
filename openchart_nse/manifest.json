@@ -1,0 +1,1197 @@
+{
+ "NIFTY 50": {
+  "token": "26000",
+  "type": "Index",
+  "description": "NIFTY 50"
+ },
+ "NIFTY BANK": {
+  "token": "26004",
+  "type": "Index",
+  "description": "NIFTY BANK"
+ },
+ "INDIA VIX": {
+  "token": "26011",
+  "type": "Index",
+  "description": "INDIA VIX"
+ },
+ "NIFTY 100": {
+  "token": "26007",
+  "type": "Index",
+  "description": "NIFTY 100"
+ },
+ "NIFTY 200": {
+  "token": "26020",
+  "type": "Index",
+  "description": "NIFTY 200"
+ },
+ "NIFTY 500": {
+  "token": "26006",
+  "type": "Index",
+  "description": "NIFTY 500"
+ },
+ "NIFTY AUTO": {
+  "token": "26021",
+  "type": "Index",
+  "description": "NIFTY AUTO"
+ },
+ "NIFTY ENERGY": {
+  "token": "26012",
+  "type": "Index",
+  "description": "NIFTY ENERGY"
+ },
+ "NIFTY FIN SERVICE": {
+  "token": "26027",
+  "type": "Index",
+  "description": "NIFTY FINANCIAL SERVICES"
+ },
+ "NIFTY FMCG": {
+  "token": "26013",
+  "type": "Index",
+  "description": "NIFTY FMCG"
+ },
+ "NIFTY INFRA": {
+  "token": "26010",
+  "type": "Index",
+  "description": "NIFTY INFRASTRUCTURE"
+ },
+ "NIFTY IT": {
+  "token": "26001",
+  "type": "Index",
+  "description": "NIFTY IT"
+ },
+ "NIFTY MID SELECT": {
+  "token": "26065",
+  "type": "Index",
+  "description": "NIFTY MIDCAP SELECT"
+ },
+ "NIFTY MIDCAP 100": {
+  "token": "26005",
+  "type": "Index",
+  "description": "NIFTY MIDCAP 100"
+ },
+ "NIFTY MIDCAP 50": {
+  "token": "26008",
+  "type": "Index",
+  "description": "NIFTY MIDCAP 50"
+ },
+ "NIFTY MNC": {
+  "token": "26014",
+  "type": "Index",
+  "description": "NIFTY MNC"
+ },
+ "NIFTY NEXT 50": {
+  "token": "26002",
+  "type": "Index",
+  "description": "NIFTY NEXT 50"
+ },
+ "NIFTY PHARMA": {
+  "token": "26015",
+  "type": "Index",
+  "description": "NIFTY PHARMA"
+ },
+ "NIFTY PSE": {
+  "token": "26016",
+  "type": "Index",
+  "description": "NIFTY PSE"
+ },
+ "NIFTY PSU BANK": {
+  "token": "26017",
+  "type": "Index",
+  "description": "NIFTY PSU BANK"
+ },
+ "NIFTY REALTY": {
+  "token": "26009",
+  "type": "Index",
+  "description": "NIFTY REALTY"
+ },
+ "NIFTY SERV SECTOR": {
+  "token": "26018",
+  "type": "Index",
+  "description": "NIFTY SERVICES SECTOR"
+ },
+ "NIFTY SMLCAP 100": {
+  "token": "26019",
+  "type": "Index",
+  "description": "NIFTY SMALLCAP 100"
+ },
+ "RELIANCE-EQ": {
+  "token": "2885",
+  "type": "Equity",
+  "description": "RELIANCE INDUSTRIES LTD"
+ },
+ "TCS-EQ": {
+  "token": "11536",
+  "type": "Equity",
+  "description": "TATA CONSULTANCY SERV LT"
+ },
+ "HDFCBANK-EQ": {
+  "token": "1333",
+  "type": "Equity",
+  "description": "HDFC BANK LTD"
+ },
+ "ICICIBANK-EQ": {
+  "token": "4963",
+  "type": "Equity",
+  "description": "ICICI BANK LTD."
+ },
+ "BHARTIARTL-EQ": {
+  "token": "10604",
+  "type": "Equity",
+  "description": "BHARTI AIRTEL LIMITED"
+ },
+ "INFY-EQ": {
+  "token": "1594",
+  "type": "Equity",
+  "description": "INFOSYS LIMITED"
+ },
+ "SBIN-EQ": {
+  "token": "3045",
+  "type": "Equity",
+  "description": "STATE BANK OF INDIA"
+ },
+ "LICI-EQ": {
+  "token": "9480",
+  "type": "Equity",
+  "description": "LIFE INSURA CORP OF INDIA"
+ },
+ "HINDUNILVR-EQ": {
+  "token": "1394",
+  "type": "Equity",
+  "description": "HINDUSTAN UNILEVER LTD."
+ },
+ "ITC-EQ": {
+  "token": "1660",
+  "type": "Equity",
+  "description": "ITC LTD"
+ },
+ "LT-EQ": {
+  "token": "11483",
+  "type": "Equity",
+  "description": "LARSEN & TOUBRO LTD."
+ },
+ "BAJFINANCE-EQ": {
+  "token": "317",
+  "type": "Equity",
+  "description": "BAJAJ FINANCE LIMITED"
+ },
+ "HCLTECH-EQ": {
+  "token": "7229",
+  "type": "Equity",
+  "description": "HCL TECHNOLOGIES LTD"
+ },
+ "MARUTI-EQ": {
+  "token": "10999",
+  "type": "Equity",
+  "description": "MARUTI SUZUKI INDIA LTD."
+ },
+ "SUNPHARMA-EQ": {
+  "token": "3351",
+  "type": "Equity",
+  "description": "SUN PHARMACEUTICAL IND L"
+ },
+ "M&M-EQ": {
+  "token": "2031",
+  "type": "Equity",
+  "description": "MAHINDRA & MAHINDRA LTD"
+ },
+ "KOTAKBANK-EQ": {
+  "token": "1922",
+  "type": "Equity",
+  "description": "KOTAK MAHINDRA BANK LTD"
+ },
+ "AXISBANK-EQ": {
+  "token": "5900",
+  "type": "Equity",
+  "description": "AXIS BANK LIMITED"
+ },
+ "ULTRACEMCO-EQ": {
+  "token": "11532",
+  "type": "Equity",
+  "description": "ULTRATECH CEMENT LIMITED"
+ },
+ "NTPC-EQ": {
+  "token": "11630",
+  "type": "Equity",
+  "description": "NTPC LTD"
+ },
+ "TITAN-EQ": {
+  "token": "3506",
+  "type": "Equity",
+  "description": "TITAN COMPANY LIMITED"
+ },
+ "ADANIENT-EQ": {
+  "token": "25",
+  "type": "Equity",
+  "description": "ADANI ENTERPRISES LIMITED"
+ },
+ "ADANIPORTS-EQ": {
+  "token": "15083",
+  "type": "Equity",
+  "description": "ADANI PORT & SEZ LTD"
+ },
+ "ONGC-EQ": {
+  "token": "2475",
+  "type": "Equity",
+  "description": "OIL AND NATURAL GAS CORP."
+ },
+ "DMART-EQ": {
+  "token": "19913",
+  "type": "Equity",
+  "description": "AVENUE SUPERMARTS LIMITED"
+ },
+ "BAJAJFINSV-EQ": {
+  "token": "16675",
+  "type": "Equity",
+  "description": "BAJAJ FINSERV LTD."
+ },
+ "WIPRO-EQ": {
+  "token": "3787",
+  "type": "Equity",
+  "description": "WIPRO LTD"
+ },
+ "POWERGRID-EQ": {
+  "token": "14977",
+  "type": "Equity",
+  "description": "POWER GRID CORP. LTD."
+ },
+ "JSWSTEEL-EQ": {
+  "token": "11723",
+  "type": "Equity",
+  "description": "JSW STEEL LIMITED"
+ },
+ "COALINDIA-EQ": {
+  "token": "20374",
+  "type": "Equity",
+  "description": "COAL INDIA LTD"
+ },
+ "ASIANPAINT-EQ": {
+  "token": "236",
+  "type": "Equity",
+  "description": "ASIAN PAINTS LIMITED"
+ },
+ "NESTLEIND-EQ": {
+  "token": "17963",
+  "type": "Equity",
+  "description": "NESTLE INDIA LIMITED"
+ },
+ "BAJAJ-AUTO-EQ": {
+  "token": "16669",
+  "type": "Equity",
+  "description": "BAJAJ AUTO LIMITED"
+ },
+ "TATASTEEL-EQ": {
+  "token": "3499",
+  "type": "Equity",
+  "description": "TATA STEEL LIMITED"
+ },
+ "GRASIM-EQ": {
+  "token": "1232",
+  "type": "Equity",
+  "description": "GRASIM INDUSTRIES LTD"
+ },
+ "SBILIFE-EQ": {
+  "token": "21808",
+  "type": "Equity",
+  "description": "SBI LIFE INSURANCE CO LTD"
+ },
+ "HDFCLIFE-EQ": {
+  "token": "467",
+  "type": "Equity",
+  "description": "HDFC LIFE INS CO LTD"
+ },
+ "TECHM-EQ": {
+  "token": "13538",
+  "type": "Equity",
+  "description": "TECH MAHINDRA LIMITED"
+ },
+ "HINDALCO-EQ": {
+  "token": "1363",
+  "type": "Equity",
+  "description": "HINDALCO  INDUSTRIES  LTD"
+ },
+ "DIVISLAB-EQ": {
+  "token": "10940",
+  "type": "Equity",
+  "description": "DIVI S LABORATORIES LTD"
+ },
+ "BRITANNIA-EQ": {
+  "token": "547",
+  "type": "Equity",
+  "description": "BRITANNIA INDUSTRIES LTD"
+ },
+ "EICHERMOT-EQ": {
+  "token": "910",
+  "type": "Equity",
+  "description": "EICHER MOTORS LTD"
+ },
+ "CIPLA-EQ": {
+  "token": "694",
+  "type": "Equity",
+  "description": "CIPLA LTD"
+ },
+ "DRREDDY-EQ": {
+  "token": "881",
+  "type": "Equity",
+  "description": "DR. REDDY S LABORATORIES"
+ },
+ "TRENT-EQ": {
+  "token": "1964",
+  "type": "Equity",
+  "description": "TRENT LTD"
+ },
+ "VBL-EQ": {
+  "token": "18921",
+  "type": "Equity",
+  "description": "VARUN BEVERAGES LIMITED"
+ },
+ "PIDILITIND-EQ": {
+  "token": "2664",
+  "type": "Equity",
+  "description": "PIDILITE INDUSTRIES LTD"
+ },
+ "INDIGO-EQ": {
+  "token": "11195",
+  "type": "Equity",
+  "description": "INTERGLOBE AVIATION LTD"
+ },
+ "HAL-EQ": {
+  "token": "2303",
+  "type": "Equity",
+  "description": "HINDUSTAN AERONAUTICS LTD"
+ },
+ "BEL-EQ": {
+  "token": "383",
+  "type": "Equity",
+  "description": "BHARAT ELECTRONICS LTD"
+ },
+ "SIEMENS-EQ": {
+  "token": "3150",
+  "type": "Equity",
+  "description": "SIEMENS LTD"
+ },
+ "ADANIGREEN-EQ": {
+  "token": "3563",
+  "type": "Equity",
+  "description": "ADANI GREEN ENERGY LTD"
+ },
+ "ADANIPOWER-EQ": {
+  "token": "17388",
+  "type": "Equity",
+  "description": "ADANI POWER LTD"
+ },
+ "ADANIENSOL-EQ": {
+  "token": "10217",
+  "type": "Equity",
+  "description": "ADANI ENERGY SOLUTION LTD"
+ },
+ "ATGL-EQ": {
+  "token": "6066",
+  "type": "Equity",
+  "description": "ADANI TOTAL GAS LIMITED"
+ },
+ "AMBUJACEM-EQ": {
+  "token": "1270",
+  "type": "Equity",
+  "description": "AMBUJA CEMENTS LTD"
+ },
+ "APOLLOHOSP-EQ": {
+  "token": "157",
+  "type": "Equity",
+  "description": "APOLLO HOSPITALS ENTER. L"
+ },
+ "BAJAJHLDNG-EQ": {
+  "token": "305",
+  "type": "Equity",
+  "description": "BAJAJ HOLDINGS & INVS LTD"
+ },
+ "BANKBARODA-EQ": {
+  "token": "4668",
+  "type": "Equity",
+  "description": "BANK OF BARODA"
+ },
+ "BOSCHLTD-EQ": {
+  "token": "2181",
+  "type": "Equity",
+  "description": "BOSCH LIMITED"
+ },
+ "BPCL-EQ": {
+  "token": "526",
+  "type": "Equity",
+  "description": "BHARAT PETROLEUM CORP  LT"
+ },
+ "CANBK-EQ": {
+  "token": "10794",
+  "type": "Equity",
+  "description": "CANARA BANK"
+ },
+ "CHOLAFIN-EQ": {
+  "token": "685",
+  "type": "Equity",
+  "description": "CHOLAMANDALAM IN & FIN CO"
+ },
+ "DABUR-EQ": {
+  "token": "772",
+  "type": "Equity",
+  "description": "DABUR INDIA LTD"
+ },
+ "DLF-EQ": {
+  "token": "14732",
+  "type": "Equity",
+  "description": "DLF LIMITED"
+ },
+ "GAIL-EQ": {
+  "token": "4717",
+  "type": "Equity",
+  "description": "GAIL (INDIA) LTD"
+ },
+ "GODREJCP-EQ": {
+  "token": "10099",
+  "type": "Equity",
+  "description": "GODREJ CONSUMER PRODUCTS"
+ },
+ "HAVELLS-EQ": {
+  "token": "9819",
+  "type": "Equity",
+  "description": "HAVELLS INDIA LIMITED"
+ },
+ "HEROMOTOCO-EQ": {
+  "token": "1348",
+  "type": "Equity",
+  "description": "HERO MOTOCORP LIMITED"
+ },
+ "HINDZINC-EQ": {
+  "token": "1424",
+  "type": "Equity",
+  "description": "HINDUSTAN ZINC LIMITED"
+ },
+ "ICICIGI-EQ": {
+  "token": "21770",
+  "type": "Equity",
+  "description": "ICICI LOMBARD GIC LIMITED"
+ },
+ "ICICIPRULI-EQ": {
+  "token": "18652",
+  "type": "Equity",
+  "description": "ICICI PRU LIFE INS CO LTD"
+ },
+ "INDUSINDBK-EQ": {
+  "token": "5258",
+  "type": "Equity",
+  "description": "INDUSIND BANK LIMITED"
+ },
+ "IOC-EQ": {
+  "token": "1624",
+  "type": "Equity",
+  "description": "INDIAN OIL CORP LTD"
+ },
+ "IRCTC-EQ": {
+  "token": "13611",
+  "type": "Equity",
+  "description": "INDIAN RAIL TOUR CORP LTD"
+ },
+ "IRFC-EQ": {
+  "token": "2029",
+  "type": "Equity",
+  "description": "INDIAN RAILWAY FIN CORP L"
+ },
+ "JINDALSTEL-EQ": {
+  "token": "6733",
+  "type": "Equity",
+  "description": "JINDAL STEEL LIMITED"
+ },
+ "JIOFIN-EQ": {
+  "token": "18143",
+  "type": "Equity",
+  "description": "JIO FIN SERVICES LTD"
+ },
+ "JSWENERGY-EQ": {
+  "token": "17869",
+  "type": "Equity",
+  "description": "JSW ENERGY LIMITED"
+ },
+ "LODHA-EQ": {
+  "token": "3220",
+  "type": "Equity",
+  "description": "LODHA DEVELOPERS LIMITED"
+ },
+ "MOTHERSON-EQ": {
+  "token": "4204",
+  "type": "Equity",
+  "description": "SAMVRDHNA MTHRSN INTL LTD"
+ },
+ "NAUKRI-EQ": {
+  "token": "13751",
+  "type": "Equity",
+  "description": "INFO EDGE (I) LTD"
+ },
+ "NHPC-EQ": {
+  "token": "17400",
+  "type": "Equity",
+  "description": "NHPC LTD"
+ },
+ "PFC-EQ": {
+  "token": "14299",
+  "type": "Equity",
+  "description": "POWER FIN CORP LTD."
+ },
+ "PNB-EQ": {
+  "token": "10666",
+  "type": "Equity",
+  "description": "PUNJAB NATIONAL BANK"
+ },
+ "RECLTD-EQ": {
+  "token": "15355",
+  "type": "Equity",
+  "description": "REC LIMITED"
+ },
+ "SHREECEM-EQ": {
+  "token": "3103",
+  "type": "Equity",
+  "description": "SHREE CEMENT LIMITED"
+ },
+ "SHRIRAMFIN-EQ": {
+  "token": "4306",
+  "type": "Equity",
+  "description": "SHRIRAM FINANCE LIMITED"
+ },
+ "TATACONSUM-EQ": {
+  "token": "3432",
+  "type": "Equity",
+  "description": "TATA CONSUMER PRODUCT LTD"
+ },
+ "TATAPOWER-EQ": {
+  "token": "3426",
+  "type": "Equity",
+  "description": "TATA POWER CO LTD"
+ },
+ "TORNTPHARM-EQ": {
+  "token": "3518",
+  "type": "Equity",
+  "description": "TORRENT PHARMACEUTICALS L"
+ },
+ "TVSMOTOR-EQ": {
+  "token": "8479",
+  "type": "Equity",
+  "description": "TVS MOTOR COMPANY  LTD"
+ },
+ "UNIONBANK-EQ": {
+  "token": "10753",
+  "type": "Equity",
+  "description": "UNION BANK OF INDIA"
+ },
+ "UNITDSPR-EQ": {
+  "token": "10447",
+  "type": "Equity",
+  "description": "UNITED SPIRITS LIMITED"
+ },
+ "VEDL-EQ": {
+  "token": "3063",
+  "type": "Equity",
+  "description": "VEDANTA LIMITED"
+ },
+ "ZYDUSLIFE-EQ": {
+  "token": "7929",
+  "type": "Equity",
+  "description": "ZYDUS LIFESCIENCES LTD"
+ },
+ "ETERNAL-EQ": {
+  "token": "5097",
+  "type": "Equity",
+  "description": "ETERNAL LIMITED"
+ },
+ "SWIGGY-EQ": {
+  "token": "27066",
+  "type": "Equity",
+  "description": "SWIGGY LIMITED"
+ },
+ "BAJAJHFL-EQ": {
+  "token": "25270",
+  "type": "Equity",
+  "description": "BAJAJ HOUSING FINANCE LTD"
+ },
+ "HYUNDAI-EQ": {
+  "token": "25844",
+  "type": "Equity",
+  "description": "HYUNDAI MOTOR INDIA LTD"
+ },
+ "NIFTY26NOVFUT": {
+  "token": "61471",
+  "type": "Futures",
+  "description": "NIFTY 23 NOV 2026"
+ },
+ "NIFTY26OCTFUT": {
+  "token": "48704",
+  "type": "Futures",
+  "description": "NIFTY 27 OCT 2026"
+ },
+ "NIFTY26SEPFUT": {
+  "token": "68407",
+  "type": "Futures",
+  "description": "NIFTY 29 SEP 2026"
+ },
+ "BANKNIFTY26NOVFUT": {
+  "token": "61466",
+  "type": "Futures",
+  "description": "BANKNIFTY 23 NOV 2026"
+ },
+ "BANKNIFTY26OCTFUT": {
+  "token": "48699",
+  "type": "Futures",
+  "description": "BANKNIFTY 27 OCT 2026"
+ },
+ "BANKNIFTY26SEPFUT": {
+  "token": "68390",
+  "type": "Futures",
+  "description": "BANKNIFTY 29 SEP 2026"
+ },
+ "FINNIFTY26NOVFUT": {
+  "token": "61469",
+  "type": "Futures",
+  "description": "FINNIFTY 23 NOV 2026"
+ },
+ "FINNIFTY26OCTFUT": {
+  "token": "48702",
+  "type": "Futures",
+  "description": "FINNIFTY 27 OCT 2026"
+ },
+ "FINNIFTY26SEPFUT": {
+  "token": "68391",
+  "type": "Futures",
+  "description": "FINNIFTY 29 SEP 2026"
+ },
+ "MIDCPNIFTY26NOVFUT": {
+  "token": "61470",
+  "type": "Futures",
+  "description": "MIDCPNIFTY 23 NOV 2026"
+ },
+ "MIDCPNIFTY26OCTFUT": {
+  "token": "48703",
+  "type": "Futures",
+  "description": "MIDCPNIFTY 27 OCT 2026"
+ },
+ "MIDCPNIFTY26SEPFUT": {
+  "token": "68406",
+  "type": "Futures",
+  "description": "MIDCPNIFTY 29 SEP 2026"
+ },
+ "NIFTY26NOV23200CE": {
+  "token": "64351",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23200.00"
+ },
+ "NIFTY26NOV23200PE": {
+  "token": "64352",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23200.00"
+ },
+ "NIFTY26NOV23300CE": {
+  "token": "64357",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23300.00"
+ },
+ "NIFTY26NOV23300PE": {
+  "token": "64358",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23300.00"
+ },
+ "NIFTY26NOV23400CE": {
+  "token": "64361",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23400.00"
+ },
+ "NIFTY26NOV23400PE": {
+  "token": "64362",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23400.00"
+ },
+ "NIFTY26NOV23500CE": {
+  "token": "64373",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23500.00"
+ },
+ "NIFTY26NOV23500PE": {
+  "token": "64374",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23500.00"
+ },
+ "NIFTY26NOV23600CE": {
+  "token": "64377",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23600.00"
+ },
+ "NIFTY26NOV23600PE": {
+  "token": "64378",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23600.00"
+ },
+ "NIFTY26NOV23700CE": {
+  "token": "64381",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23700.00"
+ },
+ "NIFTY26NOV23700PE": {
+  "token": "64384",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23700.00"
+ },
+ "NIFTY26NOV23800CE": {
+  "token": "64387",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23800.00"
+ },
+ "NIFTY26NOV23800PE": {
+  "token": "64388",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23800.00"
+ },
+ "NIFTY26NOV23900CE": {
+  "token": "64391",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 23900.00"
+ },
+ "NIFTY26NOV23900PE": {
+  "token": "64392",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 23900.00"
+ },
+ "NIFTY26NOV24000CE": {
+  "token": "64397",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24000.00"
+ },
+ "NIFTY26NOV24000PE": {
+  "token": "64398",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24000.00"
+ },
+ "NIFTY26NOV24100CE": {
+  "token": "64401",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24100.00"
+ },
+ "NIFTY26NOV24100PE": {
+  "token": "64402",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24100.00"
+ },
+ "NIFTY26NOV24200CE": {
+  "token": "64405",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24200.00"
+ },
+ "NIFTY26NOV24200PE": {
+  "token": "64406",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24200.00"
+ },
+ "NIFTY26NOV24300CE": {
+  "token": "64409",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24300.00"
+ },
+ "NIFTY26NOV24300PE": {
+  "token": "64410",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24300.00"
+ },
+ "NIFTY26NOV24400CE": {
+  "token": "64413",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24400.00"
+ },
+ "NIFTY26NOV24400PE": {
+  "token": "64414",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24400.00"
+ },
+ "NIFTY26NOV24500CE": {
+  "token": "64417",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24500.00"
+ },
+ "NIFTY26NOV24500PE": {
+  "token": "64418",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24500.00"
+ },
+ "NIFTY26NOV24600CE": {
+  "token": "64421",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 CE 24600.00"
+ },
+ "NIFTY26NOV24600PE": {
+  "token": "64422",
+  "type": "Options",
+  "description": "NIFTY 23 NOV 2026 PE 24600.00"
+ },
+ "BANKNIFTY26NOV55000CE": {
+  "token": "62155",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 55000.00"
+ },
+ "BANKNIFTY26NOV55000PE": {
+  "token": "62156",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 55000.00"
+ },
+ "BANKNIFTY26NOV55500CE": {
+  "token": "62165",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 55500.00"
+ },
+ "BANKNIFTY26NOV55500PE": {
+  "token": "62167",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 55500.00"
+ },
+ "BANKNIFTY26NOV56000CE": {
+  "token": "62183",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 56000.00"
+ },
+ "BANKNIFTY26NOV56000PE": {
+  "token": "62184",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 56000.00"
+ },
+ "BANKNIFTY26NOV56500CE": {
+  "token": "62193",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 56500.00"
+ },
+ "BANKNIFTY26NOV56500PE": {
+  "token": "62194",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 56500.00"
+ },
+ "BANKNIFTY26NOV57000CE": {
+  "token": "62207",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 57000.00"
+ },
+ "BANKNIFTY26NOV57000PE": {
+  "token": "62208",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 57000.00"
+ },
+ "BANKNIFTY26NOV57500CE": {
+  "token": "62217",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 57500.00"
+ },
+ "BANKNIFTY26NOV57500PE": {
+  "token": "62218",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 57500.00"
+ },
+ "BANKNIFTY26NOV58000CE": {
+  "token": "62240",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 58000.00"
+ },
+ "BANKNIFTY26NOV58000PE": {
+  "token": "62243",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 58000.00"
+ },
+ "BANKNIFTY26NOV58500CE": {
+  "token": "62265",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 58500.00"
+ },
+ "BANKNIFTY26NOV58500PE": {
+  "token": "62266",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 58500.00"
+ },
+ "BANKNIFTY26NOV59000CE": {
+  "token": "62275",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 59000.00"
+ },
+ "BANKNIFTY26NOV59000PE": {
+  "token": "62276",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 59000.00"
+ },
+ "BANKNIFTY26NOV59500CE": {
+  "token": "62291",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 59500.00"
+ },
+ "BANKNIFTY26NOV59500PE": {
+  "token": "62292",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 59500.00"
+ },
+ "BANKNIFTY26NOV60000CE": {
+  "token": "62301",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 CE 60000.00"
+ },
+ "BANKNIFTY26NOV60000PE": {
+  "token": "62304",
+  "type": "Options",
+  "description": "BANKNIFTY 23 NOV 2026 PE 60000.00"
+ },
+ "NIFTY26SEP23200CE": {
+  "token": "73910",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23200.00"
+ },
+ "NIFTY26SEP23200PE": {
+  "token": "73911",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23200.00"
+ },
+ "NIFTY26SEP23300CE": {
+  "token": "73923",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23300.00"
+ },
+ "NIFTY26SEP23300PE": {
+  "token": "73924",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23300.00"
+ },
+ "NIFTY26SEP23400CE": {
+  "token": "73927",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23400.00"
+ },
+ "NIFTY26SEP23400PE": {
+  "token": "73928",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23400.00"
+ },
+ "NIFTY26SEP23500CE": {
+  "token": "73985",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23500.00"
+ },
+ "NIFTY26SEP23500PE": {
+  "token": "73994",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23500.00"
+ },
+ "NIFTY26SEP23600CE": {
+  "token": "74003",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23600.00"
+ },
+ "NIFTY26SEP23600PE": {
+  "token": "74004",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23600.00"
+ },
+ "NIFTY26SEP23700CE": {
+  "token": "74007",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23700.00"
+ },
+ "NIFTY26SEP23700PE": {
+  "token": "74009",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23700.00"
+ },
+ "NIFTY26SEP23800CE": {
+  "token": "74045",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23800.00"
+ },
+ "NIFTY26SEP23800PE": {
+  "token": "74046",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23800.00"
+ },
+ "NIFTY26SEP23900CE": {
+  "token": "74056",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 23900.00"
+ },
+ "NIFTY26SEP23900PE": {
+  "token": "74057",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 23900.00"
+ },
+ "NIFTY26SEP24000CE": {
+  "token": "65900",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24000.00"
+ },
+ "NIFTY26SEP24000PE": {
+  "token": "65901",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24000.00"
+ },
+ "NIFTY26SEP24100CE": {
+  "token": "74064",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24100.00"
+ },
+ "NIFTY26SEP24100PE": {
+  "token": "74065",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24100.00"
+ },
+ "NIFTY26SEP24200CE": {
+  "token": "74068",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24200.00"
+ },
+ "NIFTY26SEP24200PE": {
+  "token": "74083",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24200.00"
+ },
+ "NIFTY26SEP24300CE": {
+  "token": "74107",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24300.00"
+ },
+ "NIFTY26SEP24300PE": {
+  "token": "74108",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24300.00"
+ },
+ "NIFTY26SEP24400CE": {
+  "token": "74114",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24400.00"
+ },
+ "NIFTY26SEP24400PE": {
+  "token": "74115",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24400.00"
+ },
+ "NIFTY26SEP24500CE": {
+  "token": "74241",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24500.00"
+ },
+ "NIFTY26SEP24500PE": {
+  "token": "74242",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24500.00"
+ },
+ "NIFTY26SEP24600CE": {
+  "token": "74289",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 CE 24600.00"
+ },
+ "NIFTY26SEP24600PE": {
+  "token": "74350",
+  "type": "Options",
+  "description": "NIFTY 29 SEP 2026 PE 24600.00"
+ },
+ "BANKNIFTY26SEP55000CE": {
+  "token": "69767",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 55000.00"
+ },
+ "BANKNIFTY26SEP55000PE": {
+  "token": "69768",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 55000.00"
+ },
+ "BANKNIFTY26SEP55500CE": {
+  "token": "52297",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 55500.00"
+ },
+ "BANKNIFTY26SEP55500PE": {
+  "token": "52298",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 55500.00"
+ },
+ "BANKNIFTY26SEP56000CE": {
+  "token": "69787",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 56000.00"
+ },
+ "BANKNIFTY26SEP56000PE": {
+  "token": "69792",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 56000.00"
+ },
+ "BANKNIFTY26SEP56500CE": {
+  "token": "69801",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 56500.00"
+ },
+ "BANKNIFTY26SEP56500PE": {
+  "token": "69802",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 56500.00"
+ },
+ "BANKNIFTY26SEP57000CE": {
+  "token": "52334",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 57000.00"
+ },
+ "BANKNIFTY26SEP57000PE": {
+  "token": "52335",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 57000.00"
+ },
+ "BANKNIFTY26SEP57500CE": {
+  "token": "69822",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 57500.00"
+ },
+ "BANKNIFTY26SEP57500PE": {
+  "token": "69823",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 57500.00"
+ },
+ "BANKNIFTY26SEP58000CE": {
+  "token": "69838",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 58000.00"
+ },
+ "BANKNIFTY26SEP58000PE": {
+  "token": "69839",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 58000.00"
+ },
+ "BANKNIFTY26SEP58500CE": {
+  "token": "52358",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 58500.00"
+ },
+ "BANKNIFTY26SEP58500PE": {
+  "token": "52359",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 58500.00"
+ },
+ "BANKNIFTY26SEP59000CE": {
+  "token": "69895",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 59000.00"
+ },
+ "BANKNIFTY26SEP59000PE": {
+  "token": "69896",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 59000.00"
+ },
+ "BANKNIFTY26SEP59500CE": {
+  "token": "69944",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 59500.00"
+ },
+ "BANKNIFTY26SEP59500PE": {
+  "token": "69945",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 59500.00"
+ },
+ "BANKNIFTY26SEP60000CE": {
+  "token": "52360",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 CE 60000.00"
+ },
+ "BANKNIFTY26SEP60000PE": {
+  "token": "52361",
+  "type": "Options",
+  "description": "BANKNIFTY 29 SEP 2026 PE 60000.00"
+ }
+}
